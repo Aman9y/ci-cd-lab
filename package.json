@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-lab",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline lab using GitHub Actions and Jenkins",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
